@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int master(void)
 {
 	int digit1, digit2;
 
