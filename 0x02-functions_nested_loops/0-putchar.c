@@ -1,13 +1,12 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - print the string "_putchar" from a character array.
- * Return: 0 on success.
+ * main - print the string "_putchar"
+ * Return: 0 success.
  */
 int main(void)
 {
-        _putchar('_');
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
@@ -16,5 +15,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
